@@ -73,25 +73,26 @@ This repository contains the deliverables for the **Week 6 Assignment** for the 
 
 ## 📁 Directory Structure
 
+```bash
 AI-Edge-IoT-Quantum-Assignment-Week6/
 │
 ├── part1_theoretical_analysis/
-│ └── essay_answers.pdf
+│   └── essay_answers.pdf
 │
 ├── part2_practical_implementation/
-│ ├── edge_ai_model/
-│ │ ├── train_model.ipynb
-│ │ └── model.tflite
-│ ├── smart_agriculture/
-│ │ ├── proposal.pdf
-│ │ └── data_flow_diagram.png
-│ └── ethics_personalized_medicine/
-│ └── ethical_analysis.pdf
+│   ├── edge_ai_model/
+│   │   ├── train_model.ipynb
+│   │   └── model.tflite
+│   ├── smart_agriculture/
+│   │   ├── proposal.pdf
+│   │   └── data_flow_diagram.png
+│   └── ethics_personalized_medicine/
+│       └── ethical_analysis.pdf
 │
 ├── part3_futuristic_proposal/
-│ └── ai_2030_proposal.pdf
+│   └── ai_2030_proposal.pdf
 │
 ├── bonus_task_quantum_simulation/
-│ └── quantum_simulation_code.ipynb
+│   └── quantum_simulation_code.ipynb
 │
 └── README.md
